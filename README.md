@@ -22,7 +22,7 @@
 ## 📂 프로젝트 구조
 
 ```
-hg-mdld-practice/
+hg-mldl-practice/
 ├── README.md          # 이 파일
 ├── pyproject.toml     # 로컬 의존성 정의 (Colab 실습에는 사용하지 않음)
 ├── uv.lock            # uv 잠금 파일
@@ -58,15 +58,15 @@ hg-mdld-practice/
 
 ### 1. 노트북 열기
 
-Colab에서 `파일 > 노트북 열기 > GitHub` 탭을 선택하고 `calmbino/hg-mdld-practice`를 검색하거나, 아래 형식의 URL로 바로 엽니다.
+Colab에서 `파일 > 노트북 열기 > GitHub` 탭을 선택하고 `calmbino/hg-mldl-practice`를 검색하거나, 아래 형식의 URL로 바로 엽니다.
 
 ```
-https://colab.research.google.com/github/calmbino/hg-mdld-practice/blob/main/notebooks/01-3.ipynb
+https://colab.research.google.com/github/calmbino/hg-mldl-practice/blob/main/notebooks/01-3.ipynb
 ```
 
 ### 2. GitHub에 저장하기
 
-`파일 > GitHub에 사본 저장`을 선택하고 저장소 `calmbino/hg-mdld-practice`, 브랜치 `main`, 경로 `notebooks/<파일명>.ipynb`를 지정합니다.
+`파일 > GitHub에 사본 저장`을 선택하고 저장소 `calmbino/hg-mldl-practice`, 브랜치 `main`, 경로 `notebooks/<파일명>.ipynb`를 지정합니다.
 
 > ⚠️ Colab에서 저장하면 GitHub에 바로 커밋되므로, 로컬 저장소에서 작업하기 전에 `git pull`로 먼저 동기화하세요.
 

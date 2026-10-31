@@ -783,7 +783,7 @@ wheels = [
 ]
 
 [[package]]
-name = "hg-mdld-practice"
+name = "hg-mldl-practice"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
